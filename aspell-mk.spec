@@ -1,5 +1,5 @@
 Summary:	Macedonian dictionary for aspell
-Summary(pl.UTF-8):   Słownik macedoński dla aspella
+Summary(pl.UTF-8):	Słownik macedoński dla aspella
 Name:		aspell-mk
 Version:	0.50
 %define	subv	0
