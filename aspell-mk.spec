@@ -1,5 +1,5 @@
 Summary:	Macedonian dictionary for aspell
-Summary(pl):	S≥ownik macedoÒski dla aspella
+Summary(pl.UTF-8):   S≈Çownik macedo≈Ñski dla aspella
 Name:		aspell-mk
 Version:	0.50
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Macedonian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik macedoÒski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik macedo≈Ñski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
